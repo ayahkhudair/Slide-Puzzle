@@ -2,12 +2,6 @@
 <div align="center">
   <h1> 🧩 Bambi Slide Puzzle </h1>
   <p><i>A classic 3x3 sliding tile puzzle game with a charming forest theme.</i></p>
-
-  <img src="https://img.shields.io/badge/Status-Completed-success" />
-  <img src="https://img.shields.io/badge/UI/UX-Minimalist-green" />
-  <img src="https://img.shields.io/badge/Vanilla-JS-yellow" />
-</div>
-
 <hr />
 
 ## 🌲 Project Overview
